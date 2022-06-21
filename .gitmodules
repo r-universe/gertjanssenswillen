@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "petrinetR"]
+	path = petrinetR
+	url = https://github.com/gertjanssenswillen/petrinetr
+	shallow = true
+	registered = true
