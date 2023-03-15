@@ -2,5 +2,9 @@
   {
     "package": "petrinetR",
     "oncran": true
+  },
+  {
+    "package": "xesreadR",
+    "oncran": true
   }
 ]

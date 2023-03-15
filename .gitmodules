@@ -8,3 +8,8 @@
 	url = https://github.com/gertjanssenswillen/petrinetr
 	shallow = true
 	registered = true
+[submodule "xesreadR"]
+	path = xesreadR
+	url = https://github.com/gertjanssenswillen/xesreadr
+	shallow = true
+	registered = true
