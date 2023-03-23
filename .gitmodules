@@ -8,6 +8,16 @@
 	url = https://github.com/gertjanssenswillen/petrinetr
 	shallow = true
 	registered = true
+[submodule "processpredictR"]
+	path = processpredictR
+	url = https://github.com/cran/processpredictR
+	shallow = true
+	registered = true
+[submodule "understandBPMN"]
+	path = understandBPMN
+	url = https://github.com/cran/understandBPMN
+	shallow = true
+	registered = true
 [submodule "xesreadR"]
 	path = xesreadR
 	url = https://github.com/gertjanssenswillen/xesreadr
