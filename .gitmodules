@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bpmnR"]
+	path = bpmnR
+	url = https://github.com/cran/bpmnR
+	shallow = true
+	registered = true
 [submodule "processpredictR"]
 	path = processpredictR
 	url = https://github.com/cran/processpredictR
