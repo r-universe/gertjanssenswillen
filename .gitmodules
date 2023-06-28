@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bpmnR"]
 	path = bpmnR
 	url = https://github.com/cran/bpmnR
-	shallow = true
-	registered = true
 [submodule "processpredictR"]
 	path = processpredictR
 	url = https://github.com/cran/processpredictR
-	shallow = true
-	registered = true
 [submodule "understandBPMN"]
 	path = understandBPMN
 	url = https://github.com/cran/understandBPMN
-	shallow = true
-	registered = true
 [submodule "xesreadR"]
 	path = xesreadR
 	url = https://github.com/gertjanssenswillen/xesreadr
-	shallow = true
-	registered = true
