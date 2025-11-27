@@ -13,4 +13,4 @@
 	url = https://github.com/cran/understandBPMN
 [submodule "xesreadR"]
 	path = xesreadR
-	url = https://github.com/gertjanssenswillen/xesreadr
+	url = https://github.com/cran/xesreadR
