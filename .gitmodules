@@ -8,9 +8,6 @@
 [submodule "processpredictR"]
 	path = processpredictR
 	url = https://github.com/cran/processpredictR
-[submodule "understandBPMN"]
-	path = understandBPMN
-	url = https://github.com/cran/understandBPMN
 [submodule "xesreadR"]
 	path = xesreadR
 	url = https://github.com/cran/xesreadR
